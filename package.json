@@ -1,0 +1,14 @@
+{
+  "project": "ender5max-uvc-camera",
+  "version": "0.1.0-experimental",
+  "schema": 1,
+  "tested_board": "F004",
+  "tested_firmware": "1.3.0.14",
+  "hardware_library_sha256": "fa839e3f2ec2f8d6ee684e3176492ddc7a865c2bfc0f0fd3944f4820d6c2c846",
+  "files": {
+    "e5m-uvc-camera.sh": "c7771957afe4889713270b5f3b850601fbc5e361c1eff5a71e7a56f032bed75c",
+    "e5m-cloud-bridge-daemon.py": "e0ae0664d55460de089d157a28508be91e4d81b71e3f1ece4e13323c0db28fc4",
+    "e5m-cloud-service.py": "55ac02696e3182235c777571c34cd72acc0a335069671847ebd6751d492fc22d",
+    "e5m-cloud-camera.sh": "a7c8a2127f05f3d769b84a20687a9ea55f1e84eb17f5e1407d6f3e0980780dea"
+  }
+}
